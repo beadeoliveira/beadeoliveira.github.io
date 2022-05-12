@@ -1,10 +1,10 @@
 
 ## About me
 
-<p style="text-align: center;"> Blablabla this is about me </p>
+<p align="center">  Blablabla this is about me </p>
 
 
-![_E1](https://user-images.githubusercontent.com/29697770/168103328-1d5cf3b6-5db2-4240-838d-a2d2395d6917.jpg)
+<img src= "https://user-images.githubusercontent.com/29697770/168103328-1d5cf3b6-5db2-4240-838d-a2d2395d6917.jpg" width = "150" height = "200">
 
 ### Projects
 
