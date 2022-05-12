@@ -1,3 +1,8 @@
+# Beatriz De Oliveira
+
+(![—Pngtree—bulb-icon-vector-bulb-ideas_4979106-scaled](https://user-images.githubusercontent.com/29697770/168102012-d7da3c13-086d-4a9e-9d5d-9cf832266934.jpg)
+src)
+
 ## About me
 
 You can use the [editor on GitHub](https://github.com/beadeoliveira/beadeoliveira/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
