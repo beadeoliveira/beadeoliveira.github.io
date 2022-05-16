@@ -5,7 +5,7 @@ I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/meri
 
 **Coding Languages:** Python, Java, R Studio, STATA, MatLab
 </br>**Languages:** English*, Portuguese*, Spanish*, German (Profficient)
-</br> **Relevent Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics
+</br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics
 
 (*) = Fluent
 _________________
