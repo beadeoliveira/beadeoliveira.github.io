@@ -8,6 +8,7 @@ I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/meri
 <br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics, Mircoeconomics
 
 (F) = Fluent
+
 _________________
 
 ### Projects
