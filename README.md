@@ -4,10 +4,10 @@
 I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/) at Duke University pursuing a double major in Computational Economics and German. I am passionate about the possibilities of the integration of economics and computer science in business and development.
 
 **Coding Languages:** Python, Java, R Studio, STATA, MatLab
-<br>**Languages:** English*, Portuguese*, Spanish*, German (Profficient)
+<br>**Languages:** English (F), Portuguese (F), Spanish (F), German (Profficient)
 <br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics, Mircoeconomics
 
-(*) = Fluent
+(F) = Fluent
 _________________
 
 ### Projects
