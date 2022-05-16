@@ -5,7 +5,7 @@ I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/meri
 
 **Coding Languages:** Python, Java, R Studio, STATA, MatLab
 </br>**Languages:** English*, Portuguese*, Spanish*, German (Profficient)
-</br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics
+</br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics, Mircoeconomics
 
 (*) = Fluent
 _________________
@@ -27,3 +27,14 @@ _________________
 - Research Assistant at Duke Heuttel Laboratory
   - Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
   - Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
+
+_________________
+
+### Extracurriculars
+
+- Chair: [Student Organization Finance Committee](https://sofc.notion.site/sofcHub-8ba16edbcf924a90b309f7e3160cbe58)
+  - Oversee a 21-person committee that manages a $1M fund to support student programming on campus
+  - Funding and approval for all student clubs on campus
+  - Helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
+- President: Duke Brazilian Student Association 
+- Founder and Former Board Member: [Books for a Change](https://www.booksforachange.org/)
