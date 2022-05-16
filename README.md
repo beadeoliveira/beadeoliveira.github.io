@@ -1,4 +1,6 @@
 
+_________________
+
 ## About me
 
 I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/) at Duke University pursuing a double major in Computational Economics and German. I am passionate about the possibilities of the integration of economics and computer science in business and development.
