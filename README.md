@@ -21,7 +21,7 @@ _________________
 ## Teaching and Research Positions
 
 * Computer Science Intern at Leibniz Institute of Macroeconomics
-    ◦ Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
 * Computer Science Peer Facilitator: STEM Advancement through Group Engagement Program
     ◦ Teach computer science techniques to two small groups
 * Teaching Assistant in the Department of Economics
