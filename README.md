@@ -46,3 +46,10 @@ _________________
 
 * [Duke News](https://today.duke.edu/2020/06/11-incoming-students-awarded-ab-duke-scholarships)
 * [Del Mar Times](https://www.delmartimes.net/news/sd-cm-nc-booksforachange-20170718-htmlstory.html)
+
+__________________
+
+## Contact
+
+**Email:** beatriz.de.oliveira@duke.edu
+
