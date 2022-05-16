@@ -20,29 +20,29 @@ _________________
 
 ### Teaching and Research Positions
 
-- Computer Science Intern at Leibniz Institute of Macroeconomics
-  - Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
-- Computer Science Peer Facilitator: STEM Advancement through Group Engagement Program
-  - Teach computer science techniques to two small groups
-- Teaching Assistant in the Department of Economics
-- Research Assistant at Duke Heuttel Laboratory
-  - Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
-  - Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
+* Computer Science Intern at Leibniz Institute of Macroeconomics
+  * Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
+* Computer Science Peer Facilitator: STEM Advancement through Group Engagement Program
+  * Teach computer science techniques to two small groups
+* Teaching Assistant in the Department of Economics
+* Research Assistant at Duke Heuttel Laboratory
+  * Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
+  * Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
 
 _________________
 
 ### Extracurriculars
 
-- Chair: [Student Organization Finance Committee](https://sofc.notion.site/sofcHub-8ba16edbcf924a90b309f7e3160cbe58)
-  - Oversee a 21-person committee that manages a $1M fund to support student programming on campus
-  - Funding and approval for all student clubs on campus
-  - Helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
-- President: Duke Brazilian Student Association 
-- Founder and Former Board Member: [Books for a Change](https://www.booksforachange.org/)
+* Chair: [Student Organization Finance Committee](https://sofc.notion.site/sofcHub-8ba16edbcf924a90b309f7e3160cbe58)
+  * Oversee a 21-person committee that manages a $1M fund to support student programming on campus
+  * Funding and approval for all student clubs on campus
+  * Helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
+* President: Duke Brazilian Student Association 
+* Founder and Former Board Member: [Books for a Change](https://www.booksforachange.org/)
 
 _________________
 
 ### In the news
 
-- [Duke News](https://today.duke.edu/2020/06/11-incoming-students-awarded-ab-duke-scholarships)
-- [Del Mar Times](https://www.delmartimes.net/news/sd-cm-nc-booksforachange-20170718-htmlstory.html)
+* [Duke News](https://today.duke.edu/2020/06/11-incoming-students-awarded-ab-duke-scholarships)
+* [Del Mar Times](https://www.delmartimes.net/news/sd-cm-nc-booksforachange-20170718-htmlstory.html)
