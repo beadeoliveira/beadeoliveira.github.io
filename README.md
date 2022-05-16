@@ -31,7 +31,7 @@ _________________
 
 ## Extracurriculars
 
-* **Chair: [Student Organization Finance Committee]**(https://sofc.notion.site/sofcHub-8ba16edbcf924a90b309f7e3160cbe58): Oversee a 21-person committee that manages a $1M fund to support student programming on campus; funding and approval for all student clubs on campus; helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
+* **Chair: [Student Organization Finance Committee](https://sofc.notion.site/sofcHub-8ba16edbcf924a90b309f7e3160cbe58):** Oversee a 21-person committee that manages a $1M fund to support student programming on campus; funding and approval for all student clubs on campus; helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
 * **President: Duke Brazilian Student Association**
 * **Founder and Former Board Member: [Books for a Change](https://www.booksforachange.org/)**
 
