@@ -20,14 +20,15 @@ _________________
 
 ### Teaching and Research Positions
 
+changed
 * Computer Science Intern at Leibniz Institute of Macroeconomics
-  * Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
+    * Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
 * Computer Science Peer Facilitator: STEM Advancement through Group Engagement Program
-  * Teach computer science techniques to two small groups
+    * Teach computer science techniques to two small groups
 * Teaching Assistant in the Department of Economics
 * Research Assistant at Duke Heuttel Laboratory
-  * Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
-  * Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
+    * Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
+    * Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
 
 _________________
 
