@@ -1,14 +1,26 @@
 
-## About me
+### About me
 
-<p align="center">  Blablabla this is about me </p>
+I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/) at Duke University pursuing a double major in Computational Economics and German. I am passionate about the possibilities of the integration of economics and computer science in business and development.
 
-
-<img src= "https://user-images.githubusercontent.com/29697770/168103328-1d5cf3b6-5db2-4240-838d-a2d2395d6917.jpg" width = "150" height = "200">
+_________________
 
 ### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+_________________
+
+### Teaching and Research Positions
+
+- Computer Science Intern at Leibniz Institute of Macroeconomics
+  - Assisted the Macroeconomics Institute with implementing computer science techniques and applications into their economic research
+- Computer Science Peer Facilitator: STEM Advancement through Group Engagement Program
+  - Teach computer science techniques to two small groups
+- Teaching Assistant in the Department of Economics
+- Research Assistant at Duke Heuttel Laboratory
+  - Assisted in surveying and survey setup, data collection, and analysis of research with Dr. Mel Win Khaw, Dr. Rachel Kranton and Dr. Scott Heutell
+  - Acknowledgment in "Oversampling of minority categories drives misperceptions of group compositions"
 
 ```markdown
 Syntax highlighted code block
