@@ -12,7 +12,7 @@ _________________
 
 ### Projects
 
-- **[Analysis of CDC Chronic Disease Indicators for Heart Disease with R Studio] (https://github.com/beadeoliveira/beadeoliveira/files/8699379/document__1_.1.pdf)** - utilizes map visualization, Linear Modeling, and large dataset analysis through R
+- **[Analysis of CDC Chronic Disease Indicators for Heart Disease with R Studio](https://github.com/beadeoliveira/beadeoliveira/files/8699379/document__1_.1.pdf)** - utilizes map visualization, Linear Modeling, and large dataset analysis through R
 - **[Data Structures and Algorithms Projects](https://github.com/beadeoliveira/beadeoliveira/files/8699576/Data.Structures.and.Algorithms.Projects.pdf)** - a variety of projects related to different data structures and alogorithms in Java
 
 _________________
@@ -38,3 +38,10 @@ _________________
   - Helped overhaul the committee’s policies, public presence, and communication  to reduce funding times and increase transparency
 - President: Duke Brazilian Student Association 
 - Founder and Former Board Member: [Books for a Change](https://www.booksforachange.org/)
+
+_________________
+
+### In the news
+
+- [Duke News](https://today.duke.edu/2020/06/11-incoming-students-awarded-ab-duke-scholarships)
+- [Del Mar Times](https://www.delmartimes.net/news/sd-cm-nc-booksforachange-20170718-htmlstory.html)
