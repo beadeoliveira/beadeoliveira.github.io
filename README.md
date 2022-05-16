@@ -51,5 +51,5 @@ __________________
 
 ## Contact
 
-**Email:** beatriz.de.oliveira@duke.edu
+**Email:** beatriz.de.oliveira @ duke.edu
 
