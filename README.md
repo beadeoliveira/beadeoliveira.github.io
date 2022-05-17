@@ -17,6 +17,7 @@ _________________
 
 - **[Analysis of CDC Chronic Disease Indicators for Heart Disease with R Studio](https://github.com/beadeoliveira/beadeoliveira/files/8699379/document__1_.1.pdf)** - utilizes map visualization, Linear Modeling, and large dataset analysis through R
 - **[Data Structures and Algorithms Projects](https://github.com/beadeoliveira/beadeoliveira/files/8699576/Data.Structures.and.Algorithms.Projects.pdf)** - a variety of projects related to different data structures and alogorithms in Java
+- **[Python Game Similar to Wordle](https://github.com/beadeoliveira/wordlesimilar)** - created a variation of hangman on Python that functions similarly to the popular game, Wordle.
 
 _________________
 
