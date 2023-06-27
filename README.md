@@ -5,7 +5,7 @@ _________________
 
 I am an undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/) at Duke University pursuing a double major in Computational Economics and German. I am passionate about the possibilities of software and computer science in revolutionizing the world we live in.
 
-**Coding Languages:** C, Python, Java, R Studio, HTML/CSS, RSTATA, MatLab, PostgresSQL, React
+**Coding Languages:** C, Python, Java, R Studio, HTML/CSS, STATA, MatLab, PostgresSQL, React
 <br>**Languages:** English (F), Portuguese (F), Spanish (F), German (Profficient)
 <br> **Relevant Courses:** Linear Algebra and Differential Equations, Computer Science Principals, Data Structures and Algorithms, Advanced Econometrics, Mircoeconomics
 <br> **Areas of Interest:**  Machine Learning and Artificial Intelligence, Cloud Computing, Optimizaiton, Algorithms and Data Structures
