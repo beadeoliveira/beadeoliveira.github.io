@@ -29,13 +29,8 @@
          
          <center> <p> Bea De Oliveira is a current senior and A.B. Scholar at Duke University studying Computer Science. She hopes to pursue a career in software engineering or ML. </p> </center>
          <center> <p> <b> Email: </b> beatriz.de.oliveira@duke.edu  </p> </center>
-         <center>
-         {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          {% endif %}
-         </center>
+         <center> <a href="https://www.linkedin.com/in/beatriz-de-oliveira-3489a812a/">LinkedIn Profile</a> </center>
+         <center> <a href="{{ site.github.owner_url }}">View My GitHub Profile</a> </center>
          
          <br>
          <br>
@@ -44,10 +39,7 @@
          
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
+   
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -61,24 +53,6 @@
       {{ content }}
 
       </section>
-      <footer>
-        <div class="social-icons">
-
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
-        </div>
-        <br>
-        <br>
-        <br>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
